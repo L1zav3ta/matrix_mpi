@@ -1,0 +1,1 @@
+D:\vs\matrix_mpi\x64\Debug\matrix_mpi.exe
